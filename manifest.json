@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "Pride: Minimal Todo List",
+    "description": "No sign-ups, no hassle—just pure productivity.",
+    "version": "1.0.0",
+    "chrome_url_overrides": {
+        "newtab": "pride.html"
+    },
+    "icons": {
+        "16": "img/icons/pride-logo-16.png",
+        "32": "img/icons/pride-logo-32.png",
+        "48": "img/icons/pride-logo-48.png",
+        "128": "img/icons/pride-logo-128.png"
+    },
+    "action": {
+        "default_icon": {
+            "16": "img/icons/pride-logo-16.png",
+            "32": "img/icons/pride-logo-32.png",
+            "48": "img/icons/pride-logo-48.png"
+        }
+    },
+    "background": {
+        "service_worker": "service-worker.js"
+    },
+    "content_security_policy": {
+        "extension_pages": "script-src 'self'; object-src 'self'"
+    }
+}

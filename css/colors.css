@@ -1,0 +1,12 @@
+:root {
+    --system-background: #0F0F0F;
+    --system-foreground: #141414;
+    --system-foreground-l2: #202020;
+
+    --system-gray: #747474;
+    --system-gray-2: #C4C4C4;
+    --system-gray-3: #B8B8B8;
+
+    --system-primary: #00B99D;
+    --system-blue-alpha: #34f1ff2f;
+}
