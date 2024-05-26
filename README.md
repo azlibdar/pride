@@ -22,7 +22,7 @@ A Chrome browser extension - No sign-ups, no hassle—just pure productivity.
 ## Download
 You can download the Pride: Minimal Todo List extension from the Chrome Web Store by clicking the button below:
 
-[Download from Chrome Web Store]()
+[Download from Chrome Web Store](https://chromewebstore.google.com/detail/imabkchdfnonlkmdocedbnfgbmcpbopn)
 
 <br>
 
